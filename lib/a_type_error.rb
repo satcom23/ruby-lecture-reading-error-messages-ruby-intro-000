@@ -1,5 +1,3 @@
 1 + 1
 
-1 + "is the loneliest number"
-
-"is the loniest number" == 1
+1 + 2
